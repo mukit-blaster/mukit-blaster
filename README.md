@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohayminul Mukit</h1>
 <h3 align="center">There's always room for improvement no matter what!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/200.webp?cid=ecf05e47jay8om0kwcptd4hc602jf7h1x9p4rug3r932mrf7&ep=v1_gifs_search&rid=200.webp&ct=g">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukit-blaster&label=Profile%20views&color=0e75b6&style=flat" alt="mukit-blaster" /> </p>
 
 - 📫 How to reach me **mohyminulmukit@gmail.com**
