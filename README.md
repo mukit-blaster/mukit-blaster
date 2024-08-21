@@ -28,7 +28,7 @@
 <p>&nbsp;</p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukit-blaster&show_icons=true&locale=en&layout=compact" alt="mukit-blaster" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukit-blaster&show_icons=true&locale=en" alt="mukit-blaster" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=mukit-blaster&show_icons=true&locale=en" alt="mukit-blaster" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukit-blaster&" alt="mukit-blaster" /></p>
 
