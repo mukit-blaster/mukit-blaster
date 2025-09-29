@@ -75,15 +75,21 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mukit-blaster&show_icons=true&theme=radical&count_private=true&hide_border=false" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukit-blaster&layout=compact&theme=radical&hide_border=false" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukit-blaster&theme=radical&hide_border=false" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukit-blaster&theme=radical&hide_border=false" alt="Profile Summary"/>
-</p>
+<table align="center" cellpadding="10">
+  <tr>
+    <td bgcolor="#ff4d6d" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=mukit-blaster&show_icons=true&theme=radical&count_private=true&hide_border=true" height="180" />
+    </td>
+    <td bgcolor="#6a5acd" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukit-blaster&layout=compact&theme=radical&hide_border=true" height="180" />
+    </td>
+  </tr>
+  <tr>
+    <td bgcolor="#20b2aa" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mukit-blaster&theme=radical&hide_border=true" height="180" />
+    </td>
+    <td bgcolor="#ff8c00" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mukit-blaster&theme=radical&hide_border=true" height="180" />
+    </td>
+  </tr>
+</table>
